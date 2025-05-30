@@ -3,6 +3,14 @@ import os
 import argparse
 import sys
 
+"""
+This module has functions associated with analyzing the geometry of a molecule.
+When run as a script and given an xyz file, this script will print out the bonds.
+Run 
+python geometry_analysis.py --help
+to see input options.
+"""
+
 def calculate_distance(atom1_coord, atom2_coord):
     x_distance = atom1_coord[0] - atom2_coord[0]
     y_distance = atom1_coord[1] - atom2_coord[1]
