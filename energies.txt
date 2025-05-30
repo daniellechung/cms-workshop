@@ -1,0 +1,10 @@
+For the file butanol the energy is -232.1655798347283 in kcal/mol. 
+For the file decanol the energy is -466.3836241400086 in kcal/mol. 
+For the file ethanol the energy is -154.09130176573018 in kcal/mol. 
+For the file heptanol the energy is -349.27397687072676 in kcal/mol. 
+For the file hexanol the energy is -310.2385332251633 in kcal/mol. 
+For the file methanol the energy is -115.04800861868374 in kcal/mol. 
+For the file nonanol the energy is -427.3465180082815 in kcal/mol. 
+For the file octanol the energy is -388.3110864554743 in kcal/mol. 
+For the file pentanol the energy is -271.20138119895074 in kcal/mol. 
+For the file propanol the energy is -193.12836249728798 in kcal/mol. 
